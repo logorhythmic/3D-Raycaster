@@ -38,6 +38,8 @@ A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.
 > ```sudo apt update && sudo apt install -y build-essential cmake libsdl3-dev```
 
 
+
+
 ## Building the Game
 1. Clone the repository and cd into it:
    ```sh
@@ -55,9 +57,9 @@ A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.
    ```
 
 ## Assets
-1. [Light Theme](https://opengameart.org/content/tiny-texture-pack-1)
-2. [Dark Theme](https://aquilarius.itch.io/aquilariusrt)
-3. [Pixel Art Theme](https://normalmap-games.itch.io/pixelated-textures-asset-pack?download)
+1. [Light Texture](https://opengameart.org/content/tiny-texture-pack-1)
+2. [Retro Texture](https://aquilarius.itch.io/aquilariusrt)
+3. [Pixel Art Texture](https://normalmap-games.itch.io/pixelated-textures-asset-pack?download)
 
 
 ## Resources
