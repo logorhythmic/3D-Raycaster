@@ -3,7 +3,7 @@
 
 A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.  Uses the [parametric line intersection formula](https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection) instead of DDA to cast rays
 
-<br>
+
 ## Video Demo and screenshots
 <video src="https://github.com/user-attachments/assets/001436e2-67ac-47b5-b4c6-b7131c8574e3" controls="controls" style="max-width: 600px;">
 </video>
@@ -19,7 +19,7 @@ A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.
 ## Info
 * WASD or arrow keys movement 
 * Themes can be changed by changing the value of the ```THEME``` macro in ```include/constants.h``` to either 0 1 or 2.
-<br>
+
 
 ## Prerequisites
 1. CMake (v3.15 or higher)
@@ -37,9 +37,8 @@ A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.
 > On Ubuntu, all dependencies can be installed by running:
 > ```sudo apt update && sudo apt install -y build-essential cmake libsdl3-dev```
 
-<br>
 
-## Building the Game ()
+## Building the Game
 1. Clone the repository and cd into it:
    ```sh
     git clone https://github.com/logorhythmic/3D-Raycaster.git && cd 3D-Raycaster
@@ -54,13 +53,11 @@ A simple non DDA based 3D Raycaster built in C using the SDL3 Windowing Library.
    ```sh
    cmake --build build --config Release  
    ```
-<br>
 
 ## Assets
 1. [Light Theme](https://opengameart.org/content/tiny-texture-pack-1)
 2. [Dark Theme](https://aquilarius.itch.io/aquilariusrt)
 3. [Pixel Art Theme](https://normalmap-games.itch.io/pixelated-textures-asset-pack?download)
-
 
 
 ## Resources
